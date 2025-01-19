@@ -15,5 +15,5 @@ This is a simple counter application built using the Reflex framework in Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PyReflexCounterExample.git
+   git clone https://github.com/evertjhernandez/pyreflexcounter.git
    cd PyReflexCounterExample
